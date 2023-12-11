@@ -10,3 +10,4 @@ Setup for a Mac for web development
 5. Install nvm `brew install nvm`
 6. Install latest node
 7. Install Slack https://slack.com/intl/es-la/downloads/mac
+8. Setting: Dock: disable "Show recent applications in Dock"
