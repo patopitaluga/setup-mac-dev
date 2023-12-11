@@ -8,6 +8,6 @@ Setup for a Mac for web development
    `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 4. Install VSCode `brew install --cask visual-studio-code`
 5. Install nvm `brew install nvm`
-6. Install latest node
+6. Install latest node `nvm install --lts`
 7. Install Slack https://slack.com/intl/es-la/downloads/mac
 8. Setting: Dock: disable "Show recent applications in Dock"
